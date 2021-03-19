@@ -27,3 +27,7 @@ A repository to store my ideas so I won't forget
 - Formulir Web App
 
   As I see many huge company is using airtable - https://try.airtable.com/forms to create very useful and customizable form. Slip in my mind to create one for Indonesian people only. Hmm might be interesting.
+
+- Link whatsapp generator
+
+  Create a web app to generate whatsapp link along with the number and message, the link that is generated, when clicked or visited will lead to whatsapp including the messages.
