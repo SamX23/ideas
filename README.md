@@ -18,3 +18,12 @@ A repository to store my ideas so I won't forget
   The web may contain many interactive multimedia such as button for hijaiyah, surah, serve colorful images and so on.
 
   Would be using next js and firebase, but I think the website may be slower. So I may need a web page for seo and a web app for the fun part.
+
+- Indonesian Chess website
+
+  Blog page, App page (app and profile)
+  Techstack will be using react, material ui.
+
+- Formulir Web App
+
+  As I see many huge company is using airtable - https://try.airtable.com/forms to create very useful and customizable form. Slip in my mind to create one for Indonesian people only. Hmm might be interesting.
