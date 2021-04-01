@@ -31,3 +31,9 @@ A repository to store my ideas so I won't forget
 - Link whatsapp generator
 
   Create a web app to generate whatsapp link along with the number and message, the link that is generated, when clicked or visited will lead to whatsapp including the messages.
+
+- Al Qur'an Randomizer
+
+  Uses PWA to create simple web app shows you a random ayah, the tech would be using next, bootstrap and hosted on vercel. It also has a design of mobile first and having a menu to search certain surah and ayah.
+
+  The main display will shows ayah, surah details, and translation in Bahasa. API will be using http://alquran.cloud/ or this one https://github.com/sutanlab/quran-api
