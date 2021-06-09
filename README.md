@@ -37,3 +37,9 @@ A repository to store my ideas so I won't forget
   Uses PWA to create simple web app shows you a random ayah, the tech would be using next, bootstrap and hosted on vercel. It also has a design of mobile first and having a menu to search certain surah and ayah.
 
   The main display will shows ayah, surah details, and translation in Bahasa. API will be using http://alquran.cloud/ or this one https://github.com/sutanlab/quran-api
+
+  Already implemented on this repository - [Qur'an Randomizer](https://github.com/SamX23/read-random-ayah).
+
+- A react version of Utas
+
+  So I just came up with an idea of recreating an Indonesian growing startup as online shop platform, Utas.co. Do not know why but I would love to try creating react version of this app, surely front end only.
