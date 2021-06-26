@@ -43,3 +43,7 @@ A repository to store my ideas so I won't forget
 - A react version of Utas
 
   So I just came up with an idea of recreating an Indonesian growing startup as online shop platform, Utas.co. Do not know why but I would love to try creating react version of this app, surely front end only.
+
+- Create a simple online store
+
+  The idea is to create a simple online store where people can sell their things online and using online payment, I will say the implementation is more like utas + olx but simpler I guess.
