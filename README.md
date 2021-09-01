@@ -4,7 +4,6 @@ A repository to store my ideas so I won't forget
 - Kids note app (or another better naming)
 
   An web app to store children details and documentations, such as names, blood type, special foto and certificate.
-
   The one who manage it is their parents, one can be their father or mothers. They can also set up the plan for their kids about what do they want to achieve and their plan when reaching certain ages.
 
   On the home page, there are bunch of articles to support about parenting and life.
@@ -32,7 +31,7 @@ A repository to store my ideas so I won't forget
 
   Create a web app to generate whatsapp link along with the number and message, the link that is generated, when clicked or visited will lead to whatsapp including the messages.
 
-- Al Qur'an Randomizer
+- Al Qur'an Randomizer (DONE)
 
   Uses PWA to create simple web app shows you a random ayah, the tech would be using next, bootstrap and hosted on vercel. It also has a design of mobile first and having a menu to search certain surah and ayah.
 
@@ -47,3 +46,7 @@ A repository to store my ideas so I won't forget
 - Create a simple online store
 
   The idea is to create a simple online store where people can sell their things online and using online payment, I will say the implementation is more like utas + olx but simpler I guess.
+
+- Create a clone of Tesla
+
+  Not the business, only their stunning website, I would love to recreate the web using react stack for my portfolio.
