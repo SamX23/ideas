@@ -50,3 +50,7 @@ A repository to store my ideas so I won't forget
 - Create a clone of Tesla
 
   Not the business, only their stunning website, I would love to recreate the web using react stack for my portfolio.
+
+- Invitation landing page generator
+
+  I see many people getting married and share their digital invitation which is a landing page, on the web, there are maps, gallery, background music, and other interactive. So I'm interested to make one.
