@@ -54,3 +54,6 @@ A repository to store my ideas so I won't forget
 - Invitation landing page generator
 
   I see many people getting married and share their digital invitation which is a landing page, on the web, there are maps, gallery, background music, and other interactive. So I'm interested to make one.
+  
+- Improve chat group project
+  Just came to my mind about improve my best selected project, which many people login and try it, it is my group chat app, you can see the project on this link - https://chatgroup23.vercel.app/ . My strategy is upgrade using next js, and doing some clean code.
