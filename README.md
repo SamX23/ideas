@@ -57,3 +57,7 @@ A repository to store my ideas so I won't forget
   
 - Improve chat group project
   Just came to my mind about improve my best selected project, which many people login and try it, it is my group chat app, you can see the project on this link - https://chatgroup23.vercel.app/ . My strategy is upgrade using next js, and doing some clean code.
+
+- Update qur'an randomizer
+ Just came up to mind, I would love to update one of my beloved project, that is qur'an randomizer by using typescript. I hope it will be faster, more stable and secure.
+
