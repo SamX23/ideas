@@ -61,3 +61,19 @@ A repository to store my ideas so I won't forget
 - Update qur'an randomizer
  Just came up to mind, I would love to update one of my beloved project, that is qur'an randomizer by using typescript. I hope it will be faster, more stable and secure.
 
+- Become influencer
+
+  Be a content creator of frontend focused topics for Indonesian people, started by create :
+
+  - Emails
+  - Instagram
+  - Community
+
+- Pulsa forum
+
+  Create a forum of a "salah isi pulsa" where people post the number, then hope that the users will reply and inform that they receive a random "Pulsa" and they will communicate easily.
+
+- Simple Notes App
+
+  Create a simple notes app to store quick ideas, export to files and saved to local storage
+
