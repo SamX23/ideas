@@ -47,7 +47,7 @@ A repository to store my ideas so I won't forget
 
   The idea is to create a simple online store where people can sell their things online and using online payment, I will say the implementation is more like utas + olx but simpler I guess.
 
-- Create a clone of Tesla
+- Create a clone of Tesla (DONE)
 
   Not the business, only their stunning website, I would love to recreate the web using react stack for my portfolio.
 
