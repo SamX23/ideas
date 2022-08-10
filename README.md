@@ -77,3 +77,6 @@ A repository to store my ideas so I won't forget
 
   Create a simple notes app to store quick ideas, export to files and saved to local storage
 
+- Mami jobs
+  
+  A platform to post a freelancing jobs intended for women whos daily activity is a mom and a wife, the platform will help them provide a mom categorized work such as data entry, virtual assitance, referals, social media admin, etc. There will be registration for the job poster and the job seeker.
