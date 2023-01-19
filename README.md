@@ -80,3 +80,6 @@ A repository to store my ideas so I won't forget
 - Mami jobs
   
   A platform to post a freelancing jobs intended for women whos daily activity is a mom and a wife, the platform will help them provide a mom categorized work such as data entry, virtual assitance, referals, social media admin, etc. There will be registration for the job poster and the job seeker.
+
+- Devtools
+  Create and add a devtools that makes web development easier to my blog
