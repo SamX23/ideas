@@ -1,4 +1,5 @@
 # Ideas
+
 A repository to store my ideas so I won't forget
 
 - Kids note app (or another better naming)
@@ -54,12 +55,13 @@ A repository to store my ideas so I won't forget
 - Invitation landing page generator
 
   I see many people getting married and share their digital invitation which is a landing page, on the web, there are maps, gallery, background music, and other interactive. So I'm interested to make one.
-  
+
 - Improve chat group project
+
   Just came to my mind about improve my best selected project, which many people login and try it, it is my group chat app, you can see the project on this link - https://chatgroup23.vercel.app/ . My strategy is upgrade using next js, and doing some clean code.
 
 - Update qur'an randomizer
- Just came up to mind, I would love to update one of my beloved project, that is qur'an randomizer by using typescript. I hope it will be faster, more stable and secure.
+  Just came up to mind, I would love to update one of my beloved project, that is qur'an randomizer by using typescript. I hope it will be faster, more stable and secure.
 
 - Become influencer
 
@@ -78,7 +80,7 @@ A repository to store my ideas so I won't forget
   Create a simple notes app to store quick ideas, export to files and saved to local storage
 
 - Mami jobs
-  
+
   A platform to post a freelancing jobs intended for women whos daily activity is a mom and a wife, the platform will help them provide a mom categorized work such as data entry, virtual assitance, referals, social media admin, etc. There will be registration for the job poster and the job seeker.
 
 - Devtools
