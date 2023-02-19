@@ -90,3 +90,7 @@ A repository to store my ideas so I won't forget
 - Display Clock
 
   Create an SPA to only shows a clock of your work hours and pray time for muslim people, ofcourse it needs a good UI and responsive design
+
+- Course Web
+
+  Create a website containing a course for frontend programming, add a segmentation from newbie to expert, created using next js, graphql and videos are uploaded on unlisted youtube videos.
