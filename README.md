@@ -82,7 +82,9 @@ A repository to store my ideas so I won't forget
   A platform to post a freelancing jobs intended for women whos daily activity is a mom and a wife, the platform will help them provide a mom categorized work such as data entry, virtual assitance, referals, social media admin, etc. There will be registration for the job poster and the job seeker.
 
 - Devtools
+
   Create and add a devtools that makes web development easier to my blog
 
 - Display Clock
+
   Create an SPA to only shows a clock of your work hours and pray time for muslim people, ofcourse it needs a good UI and responsive design
