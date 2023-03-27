@@ -94,3 +94,7 @@ A repository to store my ideas so I won't forget
 - Course Web
 
   Create a website containing a course for frontend programming, add a segmentation from newbie to expert, created using next js, graphql and videos are uploaded on unlisted youtube videos.
+
+- Food order app
+
+  A simple food ordering app, which would be using next ts, localstorage and some whatsapp script, the main idea is the customer would be order directly from the web app, they can add any food and also increase the quantity of each app, there would also a UI to act as a bucket list of checked food, and once the customer hit order, it will redirect to the whatsapp with the generated text according to what is ordered by them.
