@@ -89,11 +89,15 @@ A repository to store my ideas so I won't forget
 
 - Display Clock
 
-  Create an SPA to only shows a clock of your work hours and pray time for muslim people, ofcourse it needs a good UI and responsive design
+  Create an SPA to only show a clock of your work hours and prayer time for Moslem, ofcourse it needs a good UI and responsive design
 
 - Course Web
 
-  Create a website containing a course for frontend programming, add a segmentation from newbie to expert, created using next js, graphql and videos are uploaded on unlisted youtube videos.
+  Create a website containing a course for frontend programming, add a segmentation from newbie to expert, create using next js, graphql and videos are uploaded on unlisted youtube videos.
+
+- Offscreen counter
+
+  Create a hybrid app to count the offscreen/onscreen of mobile or web uses.
 
 - [Food order app](https://github.com/SamX23/food-order-app)
 
