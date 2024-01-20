@@ -102,3 +102,11 @@ A repository to store my ideas so I won't forget
 - [Food order app](https://github.com/SamX23/food-order-app)
 
   A simple food ordering app, which would be using next ts, localstorage and some whatsapp script, the main idea is the customer would be order directly from the web app, they can add any food and also increase the quantity of each app, there would also a UI to act as a bucket list of checked food, and once the customer hit order, it will redirect to the whatsapp with the generated text according to what is ordered by them.
+
+- Ads platforms
+
+  The idea is to create a list of advertisement for small business owner, where this ads should be indexed by google, and the submission should be free. We should have a dashboard, list of ads and some details for it.
+
+- Twibbon alternative
+
+  Create our own twibbon alternative, just for portfolio
