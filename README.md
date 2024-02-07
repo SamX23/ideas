@@ -105,7 +105,8 @@ A repository to store my ideas so I won't forget
 
 - Ads platforms
 
-  The idea is to create a list of advertisement for small business owner, where this ads should be indexed by google, and the submission should be free. We should have a dashboard, list of ads and some details for it.
+  The idea is to create a list of advertisements for small business owners, where these ads should be indexed by Google, and the submission should be free. We should have a dashboard, a list of ads, and some details for it.
+  Will be created using Next JS SSR.
 
 - Twibbon alternative
 
