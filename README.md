@@ -111,3 +111,7 @@ A repository to store my ideas so I won't forget
 - Twibbon alternative
 
   Create our own twibbon alternative, just for portfolio
+
+- Fuel counter and management on mobile apps
+
+  Create an app to store, manage and view a report of fuel efficiency that the user submit on the app, could be using next js + capacitor and using google login with firebase.
