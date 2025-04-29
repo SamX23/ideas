@@ -115,3 +115,9 @@ A repository to store my ideas so I won't forget
 - Fuel counter and management on mobile apps
 
   Create an app to store, manage and view a report of fuel efficiency that the user submit on the app, could be using next js + capacitor and using google login with firebase.
+
+- Warung whatsapp
+
+  Its an online shop kind of, but as a web, and the payment was going through a whatsapp of the seller it self, its kind of CMS but much more simpler, the problem that is going to solve by this app is the issue of making an online store, but people mostly use whatsapp.
+
+  
