@@ -120,4 +120,7 @@ A repository to store my ideas so I won't forget
 
   Its an online shop kind of, but as a web, and the payment was going through a whatsapp of the seller it self, its kind of CMS but much more simpler, the problem that is going to solve by this app is the issue of making an online store, but people mostly use whatsapp.
 
+- [Kuitansi online generator](https://github.com/SamX23/kwitansi-online-generator)
+
+  An online receipt generator, I built it because I need a quick way to generate a PDF as a proof of payment for me and the buyer.
   
